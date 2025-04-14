@@ -11,4 +11,6 @@ Output collection
 
 Tool script
   - the visualize tool and the statistic tool
-      - for better presentation of data
+
+Picture collection
+  - presented by the plot tool
