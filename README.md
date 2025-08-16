@@ -1,5 +1,5 @@
 # NS6001_2024-2025_Multi Synaptic Competition Model
-This is a research project from Cityu NS6001.
+This is a research project from CityU NS6001.
   - mainly fucus on the synaptic competition mechanism
   - tested by the MNIST test
 
